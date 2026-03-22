@@ -48,7 +48,7 @@
         ObsidianUID: ObsidianUID {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp SPACE &kp FSLH &kp LS(U) &kp LS(I) &kp LS(D) &kp RET>;
+            bindings = <&kp SPACE &kp FSLH &kp LS(U) &kp LS(I) &kp LS(D) &kp RET &kp RET>;
             label = "OBSIDIANUID";
         };
     };
