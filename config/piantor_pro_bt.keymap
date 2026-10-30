@@ -110,7 +110,7 @@
         layer_7 {
             display-name = "SYMBOL";
             bindings = <
-  &kp TILDE  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp PLUS  &kp COLON  &kp C_BRIGHTNESS_DEC  &kp LS(LG(L))  &kp C_BRIGHTNESS_INC  &none      &kp LEFT_BRACE  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp RIGHT_BRACE  &kp LESS_THAN  &HMR RIGHT_SHIFT K_VOLUME_DOWN  &HMR RIGHT_CONTROL K_MUTE  &HMR RIGHT_ALT K_VOLUME_UP  &none      &kp PIPE  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp UNDERSCORE  &kp GREATER_THAN  &kp K_PREVIOUS  &kp K_PLAY_PAUSE  &kp K_NEXT  &none    &kp QUESTION  &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &none  &none  &none
+  &kp TILDE  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp PLUS  &kp COLON  &kp C_BRIGHTNESS_DEC  &kp LG(L)  &kp C_BRIGHTNESS_INC  &none      &kp LEFT_BRACE  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp RIGHT_BRACE  &kp LESS_THAN  &HMR RIGHT_SHIFT K_VOLUME_DOWN  &HMR RIGHT_CONTROL K_MUTE  &HMR RIGHT_ALT K_VOLUME_UP  &none      &kp PIPE  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp UNDERSCORE  &kp GREATER_THAN  &kp K_PREVIOUS  &kp K_PLAY_PAUSE  &kp K_NEXT  &none    &kp QUESTION  &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &none  &none  &none
             >;
         };
 
