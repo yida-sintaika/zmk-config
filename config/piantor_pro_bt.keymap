@@ -89,14 +89,14 @@
         layer_4 {
             display-name = "MMOUSE";
             bindings = <
-  &kp LA(F4)  &kp LC(W)  &kp LC(LS(TAB))  &kp LC(TAB)  &kp LA(PRINTSCREEN)  &msc SCRL_UP  &msc SCRL_LEFT  &mmv MOVE_UP  &msc SCRL_RIGHT  &none      &kp LG(LC(DOWN_ARROW))  &HML (LEFT_ALT) LG(LC(UP_ARROW))  &HML (LEFT_CONTROL) LG(LC(LEFT_ARROW))  &HML (LEFT_SHIFT) LG(LC(RIGHT_ARROW))  &kp LA(TAB)  &msc SCRL_DOWN  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &none      &kp LC(N)  &kp LC(T)  &kp LC(MINUS)  &kp LC(EQUAL)  &kp LG(SLASH)  &kp LC(Z)  &kp LC(V)  &kp LC(C)  &kp LC(X)  &kp LC(Y)    &mt (LEFT_GUI) LG(LEFT_ARROW)  &lt 5 SPACE  &kp TAB  &mkp RCLK  &mkp LCLK  &to 3
+  &kp LA(F4)  &kp LC(W)  &kp LC(LS(TAB))  &kp LC(TAB)  &kp LG(TAB)  &msc SCRL_UP  &msc SCRL_LEFT  &mmv MOVE_UP  &msc SCRL_RIGHT  &none      &kp LG(LC(DOWN_ARROW))  &HML (LEFT_ALT) LG(LC(UP_ARROW))  &HML (LEFT_CONTROL) LG(LC(LEFT_ARROW))  &HML (LEFT_SHIFT) LG(LC(RIGHT_ARROW))  &kp LA(TAB)  &msc SCRL_DOWN  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &none      &kp LC(N)  &kp LC(T)  &kp LC(MINUS)  &kp LC(EQUAL)  &kp LG(SLASH)  &kp LC(Z)  &kp LC(V)  &kp LC(C)  &kp LC(X)  &kp LC(Y)    &mt (LEFT_GUI) LG(LEFT_ARROW)  &lt 5 SPACE  &kp TAB  &mkp RCLK  &mkp LCLK  &to 3
             >;
         };
 
         layer_5 {
             display-name = "MNAVGA";
             bindings = <
-  &kp LA(F4)  &kp LC(W)  &kp LC(LS(TAB))  &kp LC(TAB)  &kp LA(PRINTSCREEN)  &kp PAGE_UP  &kp HOME  &kp UP_ARROW  &kp END  &ObsidianUID      &kp LG(LC(DOWN_ARROW))  &HML (LEFT_ALT) LG(LC(UP_ARROW))  &HML (LEFT_CONTROL) LG(LC(LEFT_ARROW))  &HML (LEFT_SHIFT) LG(LC(RIGHT_ARROW))  &kp LA(TAB)  &kp PAGE_DOWN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &none      &kp LC(N)  &kp LC(T)  &kp LC(MINUS)  &kp LC(EQUAL)  &kp LG(SLASH)  &kp LC(Z)  &kp LC(V)  &kp LC(C)  &kp LC(X)  &kp LC(Y)    &to 8  &none  &to 0  &kp ENTER  &kp BACKSPACE  &mt LEFT_GUI DELETE
+  &kp LA(F4)  &kp LC(W)  &kp LC(LS(TAB))  &kp LC(TAB)  &kp LG(TAB)  &kp PAGE_UP  &kp HOME  &kp UP_ARROW  &kp END  &ObsidianUID      &kp LG(LC(DOWN_ARROW))  &HML (LEFT_ALT) LG(LC(UP_ARROW))  &HML (LEFT_CONTROL) LG(LC(LEFT_ARROW))  &HML (LEFT_SHIFT) LG(LC(RIGHT_ARROW))  &kp LA(TAB)  &kp PAGE_DOWN  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &none      &kp LC(N)  &kp LC(T)  &kp LC(MINUS)  &kp LC(EQUAL)  &kp LG(SLASH)  &kp LC(Z)  &kp LC(V)  &kp LC(C)  &kp LC(X)  &kp LC(Y)    &to 8  &none  &to 0  &kp ENTER  &kp BACKSPACE  &mt LEFT_GUI DELETE
             >;
         };
 
